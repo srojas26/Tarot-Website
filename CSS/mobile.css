@@ -1,0 +1,58 @@
+#showcase h1 {
+  font-size: 2rem;
+}
+
+#showcase p {
+  font-size: 1.3rem;
+}
+
+.container {
+  padding: 0 1.5rem;
+}
+
+.container-fluid {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.box {
+  padding: 1.5rem;
+}
+
+.testimonial-container {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.testimonial-box {
+  padding: 1.5rem;
+  border-bottom: #f4f4f4 dashed 0.5px;
+}
+
+.faq-container {
+  padding: 1.5rem;
+}
+
+.services-header {
+  font-size: 2.5rem;
+}
+
+.box-pic {
+  padding: 1rem ;
+
+}
+
+.contact-heading {
+  padding-top: 0.5rem;
+  font-size: 1.5rem;
+  line-height: 44px;
+}
+
+.contact-text-1 {
+  font-size: 1.25rem;
+  line-height: 44px;
+}
+
+.contact-text-2 {
+  font-size: 1.5rem;
+}
